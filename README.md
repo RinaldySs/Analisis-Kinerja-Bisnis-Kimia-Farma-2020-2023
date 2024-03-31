@@ -1,12 +1,17 @@
-Performance Analytics: Analisis Kinerja Bisnis Kimia Farma Tahun 2020-2023 Selamat datang di repository "Performance Analytics: Analisis Kinerja Bisnis Kimia Farma Tahun 2020-2023". Repository ini berisi informasi dan hasil analisis kinerja bisnis Kimia Farma selama periode 2020 hingga 2023. Saya, sebagai Big Data Analytics Intern, bertanggung jawab atas analisis data dalam proyek ini. Analisis ini dilakukan sebagai bagian dari project based internship bersama Rakamin di Kimia Farma.
+Performance Analytics: Kimia Farma Business Performance Analysis 2020-2023
 
-Deskripsi Proyek Proyek ini bertujuan untuk mengevaluasi kinerja bisnis Kimia Farma selama periode empat tahun terakhir. Analisis dilakukan menggunakan berbagai dataset yang mencakup data transaksi, inventaris, kantor cabang, dan produk Kimia Farma. Dengan menggunakan teknik analisis data dan big data analytics, saya bertujuan untuk memahami tren, pola, dan faktor-faktor yang mempengaruhi kinerja bisnis perusahaan.
+Welcome to the "Performance Analytics: Kimia Farma Business Performance Analysis 2020-2023" repository. This repository contains information and analysis results regarding Kimia Farma's business performance during the period from 2020 to 2023. As a Big Data Analytics Intern, I am responsible for the data analysis in this project. This analysis is conducted as part of a project-based internship with Rakamin at Kimia Farma.
 
-Langkah-langkah Analisis 
-Import Dataset: Dataset yang diberikan diimpor ke platform analisis data yang digunakan yaitu BigQuery. 
-Data Preparation: Pemrosesan data dilakukan untuk menggabungkan dataset yang diperlukan. 
-Exploratory Data Analysis: Analisis eksploratori digunakan untuk memahami karakteristik data, mengeksplorasi pola, korelasi, dan tren dalam data. Visualization: Visualisasi data digunakan untuk menyajikan temuan secara jelas dan mudah dimengerti menggunaka Looker Studio. Interpretation and Reporting: Hasil analisis dan temuan dikomunikasikan melalui laporan, presentasi, dan visualisasi untuk memahami kinerja bisnis perusahaan.
+Project Description
+The project aims to evaluate Kimia Farma's business performance over the past four years. The analysis is conducted using various datasets including transaction data, inventory data, branch office data, and product data from Kimia Farma. By utilizing data analysis techniques and big data analytics, I aim to understand trends, patterns, and factors influencing the company's business performance.
 
-Kontribusi Saya bertanggung jawab atas analisis data, pemrosesan, dan interpretasi hasil. memahami konteks bisnis dan kebutuhan analisis. Menyajikan temuan dan rekomendasi melalui laporan dan presentasi.
+Analysis Steps
+-Import Dataset: The provided datasets are imported into the data analysis platform used, which is BigQuery.
+-Data Preparation: Data processing is performed to combine the necessary datasets.
+-Exploratory Data Analysis: Exploratory analysis is used to understand data characteristics, explore patterns, correlations, and trends in the data.
+-Visualization: Data visualization is used to present findings clearly and comprehensively using Looker Studio.
+-Interpretation and Reporting: Analysis results and findings are communicated through reports, presentations, and visualizations to understand the company's business performance.
+My Contribution
+I am responsible for data analysis, and interpreting results. I understand the business context and analysis requirements. I present findings and recommendations through reports and presentations.
 
-Terima kasih telah mengunjungi repository "Performance Analytics: Analisis Kinerja Bisnis Kimia Farma Tahun 2020-2023". Saya berharap hasil analisis ini memberikan wawasan yang berharga bagi saya sendiri, Kimia Farma dan semua pemangku kepentingan yang terlibat.
+Thank you for visiting the "Performance Analytics: Kimia Farma Business Performance Analysis 2020-2023" repository. I hope this analysis provides valuable insights for myself, Kimia Farma, and all stakeholders involved.
