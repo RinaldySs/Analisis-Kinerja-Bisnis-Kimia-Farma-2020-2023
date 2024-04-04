@@ -36,5 +36,5 @@ SELECT
     END AS nett_profit,
 f.rating as rating_transaksi -- Alias for rating of the transaction
 FROM kimia_farma.kf_final_transaction AS f
-Left kimia_farma.kf_kantor_cabang k ON f.branch_id = k.branch_id       
-Left kimia_farma.kf_product p ON f.product_id = p.product_id;
+LEFT JOIN kimia_farma.kf_kantor_cabang k ON f.branch_id = k.branch_id       
+LEFT JOIN kimia_farma.kf_product p ON f.product_id = p.product_id;
