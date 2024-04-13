@@ -14,4 +14,4 @@ Analysis results and findings are communicated through reports, presentations, a
 
 I am responsible for data analysis, and interpreting results. I understand the business context and analysis requirements. I present findings and recommendations through reports and presentations.
 
-Thank you for visiting the "Performance Analytics: Kimia Farma Business Performance Analysis 2020-2023" repository. I hope this analysis provides valuable insights for myself, Kimia Farma, and all stakeholders involved.
+Thank you for visiting the "Performance Analytics: Kimia Farma Business Performance Analysis 2020-2023" repository.
